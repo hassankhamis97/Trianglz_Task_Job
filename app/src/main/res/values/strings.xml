@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trianglz</string>
+    <string name="error_no_internet_connection">No Internet Connection</string>
+</resources>
